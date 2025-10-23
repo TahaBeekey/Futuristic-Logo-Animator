@@ -1,0 +1,5 @@
+{
+  "name": "Futuristic Logo Animator",
+  "description": "Upload your logo and generate a futuristic, slow-zoom reveal animation using Google's Veo video generation model.",
+  "requestFramePermissions": []
+}
